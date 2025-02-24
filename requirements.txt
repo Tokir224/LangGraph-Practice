@@ -1,0 +1,7 @@
+typing_extensions
+pydantic
+langchain_groq
+langchain_community
+langchain_core
+langgraph
+python-dotenv
