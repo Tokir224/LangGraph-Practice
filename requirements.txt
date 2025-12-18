@@ -5,3 +5,5 @@ langchain_community
 langchain_core
 langgraph
 python-dotenv
+langchain_ollama
+bs4
